@@ -3,6 +3,8 @@ layout: post
 title: 2021 4분기 문화생활 결산
 ---
 
+<img src="https://user-images.githubusercontent.com/8778711/152289819-116ebd6f-1468-47af-b0df-f9d1385bfe3e.png" width="300"/>
+
 ## 책
 
 ### [초인적 힘의 비밀](http://book.naver.com/bookdb/book_detail.php?bid=21299140)
