@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### 소개
 
-### More Information
+**Linear** (리니어)
+본명은 황선영 (**SeonYeong Hwang**)
 
-A place to include any other types of information that you'd like to include about yourself.
+수학과 전산을 전공했고 현재는 iOS 개발을 합니다.
+다양한 컨텐츠를 덕질합니다.
+LGBTQIA+ 중에 A.
+
+### 외부 활동
+- [사내 인터뷰](https://recruit.webtoonscorp.com/webtoon/ko/insideDetail?id=2)
+- 하마글방 (글쓰기)
+  - [P와 K](https://brunch.co.kr/@hereshippo/4)
+  - [비극의 예언을 내려주세요](https://brunch.co.kr/@hereshippo/8)
+  - [테세우스의 배](https://brunch.co.kr/@hereshippo/10)
+  - [카카오맛 로맨스 판타지](https://brunch.co.kr/@hereshippo/13)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[noah9479@gmail.com](mailto:noah9479@gmail.com)
