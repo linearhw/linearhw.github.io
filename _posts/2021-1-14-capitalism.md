@@ -3,7 +3,7 @@ layout: post
 title: 자본주의 리얼리즘 (2)
 ---
 
-[1편](_posts/2020-11-1-capitalism.md)에서 이어지는 내용
+[1편](2020-11-1-capitalism.md)에서 이어지는 내용
 
 ## 견고한 모든 것이 홍보 속으로 사라진다
 
