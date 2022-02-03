@@ -3,6 +3,8 @@ layout: post
 title: 2021 2분기 문화생활 결산
 ---
 
+<img src="https://user-images.githubusercontent.com/8778711/152290801-4e2ba238-5a28-4015-85aa-72434979b254.png" width="300"/>
+
 ## 책
 
 ### [비트의 세계](http://book.naver.com/bookdb/book_detail.php?bid=18990670)
