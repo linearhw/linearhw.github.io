@@ -3,6 +3,8 @@ layout: post
 title: 자본주의 리얼리즘 (2)
 ---
 
+<img src="https://user-images.githubusercontent.com/8778711/152291327-821d5a5c-3129-4955-bb17-eed7d46c91cc.png" width="300" />
+
 ## 견고한 모든 것이 홍보 속으로 사라진다
 
 ### '스마트해지기' 라는 에토스
