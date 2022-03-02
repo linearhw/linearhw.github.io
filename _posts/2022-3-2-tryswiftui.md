@@ -23,19 +23,19 @@ title: SwiftUI 체험기 (시리즈도 이미지 공유하고 싶어)
   - 그런데 이 `TextEditor` 가 `UITextView` 의 기능을 다 갖고 있지 않다. [UITextViewDelegate](https://developer.apple.com/documentation/uikit/uitextviewdelegate) 은 제공하는 함수 종류만 해도 열 개 가까이 되는데, `TextEditor` 에는 오로지 gesture 붙이는 기능만 있다. 취미로 사이드 프로젝트 할 땐 gesture 로도 다 해결할 수 있지만, 실제 서비스 코드는 이걸로 다 커버가 안 될 거 같다는 예감이 강력하게 든다.
   - 예를 들어, 입력한 텍스트 길이에 맞게 UI 높이를 dynamic 으로 조절하는 건 UIKit 에선 그다지 어려운 작업이 아니었다. 하지만 `TextEditor` 에 이런 기능을 붙이려면 PreferenceKey 를 써야 한다. 이런 KVO 스타일의 툴은 최후의 보루에나 쓰는 거 아니었나? 자유도가 높다고 하면 듣기는 좋지만, 이틀간 사용했을 때 내가 받은 인상은 'Native API 개발이 덜 됐다' 였다. 
   - 여전히 UIKit dependency 를 가지고 있다. `TextEditor` 에는 기본 white background 가 들어가 있는데, 여기에 아무리 `.background(Color.red)` 함수를 붙여도 배경은 빨간색이 되지 않는다. 빨간 배경을 만드려면
-  ```swift
-  struct ContentView: View {
+```swift
+struct ContentView: View {
     init() {
-      UITextView.appearance().backgroundColor = .clear
+        UITextView.appearance().backgroundColor = .clear
     }
     
     var body: some View {
-      TextEditor(text: .constant("Placeholder")
-        .background(Color.red)
+        TextEditor(text: .constant("Placeholder")
+            .background(Color.red)
+        }
     }
-  }
 }
-  ``` 
+``` 
   라고 사전에 clear 세팅을 먼저 해줘야 한다. 아마 큰 규모 서비스로 넘어가면 UIKit dependency 가 더 선명하게 드러나지 않을까.
   
 - '애플 스럽지' 않은 UI 를 어떻게든 막으려고 안간힘을 쓴다.
@@ -44,13 +44,13 @@ title: SwiftUI 체험기 (시리즈도 이미지 공유하고 싶어)
   
 - UI 레이어 디버깅이 힘들다.
   - 위에서 말한 SwiftUI 의 기조는 디버깅을 힘들게 만드는 요소이기도 하다. 일단 frame 정보를 알려면 GeometryReader 라는 별도의 클래스를 써야 하고, 런타임에 `view.frame` 를 찍어보고 싶어서 View 를 구성하는 중간에 
-  ```swift
-  print(geometry.frame(in: .global))
-  ``` 
+```swift
+print(geometry.frame(in: .global))
+``` 
   같은 걸 끼워넣으면 이건 View 가 아니라며 컴파일 에러를 띄우기 때문이다. 물론 어디에나 꼼수는 있어서
-  ```swift
-  let _ = print(geometry.frame(in: .global))
-  ``` 
+```swift
+let _ = print(geometry.frame(in: .global))
+``` 
   로 하면 또 컴파일 에러가 안 난다고 한다.
   하지만 디버깅 툴 중 가장 베이직인 print 를 꼼수까지 써가며 넣어야 한다니? 그냥 좀 쓸 수 있게 해줘...
 
