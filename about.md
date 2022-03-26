@@ -7,9 +7,8 @@ permalink: /about/
 ### 소개
 
 **Linear** (리니어)
-본명은 황선영 (**SeonYeong Hwang**)
 
-수학과 전산을 전공했고 현재는 iOS 개발을 합니다.
+개발 얘기 잘 안하는 개발자.
 다양한 컨텐츠를 덕질합니다.
 LGBTQIA+ 중에 A.
 
