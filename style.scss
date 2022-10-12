@@ -9,6 +9,16 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+/****************/
+/* CUSTOM FONTS */
+/****************/
+
+@font-face {
+  font-family: "MaruBuri";
+  src: url("assets/fonts/MaruBuri-Regular.otf");
+}
+
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -19,7 +29,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 "MaruBuri";
   color: $darkGray;
   line-height: 1.8;
 }
@@ -32,7 +42,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: "MaruBuri", $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
@@ -47,6 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  text-indent: 10px;
   a {
     color: inherit;
   }
@@ -67,6 +78,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  text-indent: 10px;
 }
 
 a {
@@ -257,8 +269,8 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
+    color: #65350F;
+    font-size: 17px;
     font-style: italic;
   }
 
