@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 길을 잃은 면접관
+categories: essays
 ---
 
 <img src="{{ site.baseurl }}/thumbnails/220522.jpeg" width="350" />

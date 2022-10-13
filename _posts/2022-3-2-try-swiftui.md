@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SwiftUI 체험기 (시리즈도 이미지 공유하고 싶어)
+categories: dev
 ---
 
 <img src="https://user-images.githubusercontent.com/8778711/156376625-1d65fd8b-a801-4409-9f75-5c1feff62d9b.JPG" width="300" />

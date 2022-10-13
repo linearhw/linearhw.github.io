@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 언니밖에 없네 - 퀴어의 공간
+categories: essays
 ---
 
 <img src="https://user-images.githubusercontent.com/8778711/152291084-1f65b35e-5eb5-4fd6-8a50-7152130530e4.png" width="300" />

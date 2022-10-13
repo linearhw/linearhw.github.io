@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 비평의 역할을 자기 안으로 흡수하기
+categories: essays
 ---
 
 <img src="https://user-images.githubusercontent.com/8778711/152291224-c385d6c6-2c4c-411b-9274-05616bf93f79.png" width="300" />

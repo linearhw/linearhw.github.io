@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 박 할머니의 감기 낫는 법
+categories: essays
 ---
 
 <img src="{{ site.baseurl }}/thumbnails/daangn.jpeg" width="300" />

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 이 성장은 제가 원하는 성장이 아니옵고
+categories: essays
 ---
 
 <img src="{{ site.baseurl }}/thumbnails/220317.png" width="300" />

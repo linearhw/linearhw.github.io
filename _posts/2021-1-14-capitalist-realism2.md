@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 자본주의 리얼리즘 (2)
+categories: books
 ---
 
 [1편](https://linearhw.github.io/capitalism)에서 이어지는 내용

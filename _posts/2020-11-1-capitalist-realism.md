@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 자본주의 리얼리즘 (1)
+categories: books
 ---
 
 <img src="https://user-images.githubusercontent.com/8778711/152292355-558cafc2-74ba-4e87-869d-b392c3af34e9.png" width="300" />
