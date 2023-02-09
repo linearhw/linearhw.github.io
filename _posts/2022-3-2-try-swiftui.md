@@ -4,7 +4,7 @@ title: SwiftUI 체험기 (시리즈도 이미지 공유하고 싶어)
 categories: dev
 ---
 
-<img src="https://user-images.githubusercontent.com/8778711/156376625-1d65fd8b-a801-4409-9f75-5c1feff62d9b.JPG" width="300" />
+<img src="{{ site.baseurl }}/thumbnails/220302/try-swiftui.jpeg" width="300" />
 
 ## "이미지로 멋지게 공유하기" 기능이 탐났다
 

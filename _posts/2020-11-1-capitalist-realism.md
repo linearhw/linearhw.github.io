@@ -4,7 +4,7 @@ title: 자본주의 리얼리즘 (1)
 categories: books
 ---
 
-<img src="https://user-images.githubusercontent.com/8778711/152292355-558cafc2-74ba-4e87-869d-b392c3af34e9.png" width="300" />
+<img src="{{ site.baseurl }}/thumbnails/201101/자본주의리얼리즘.png" width="300" />
 
 요 책을 9월 한달간 열심히 읽다가 추석 이후로 흐름이 끊겼다. 오늘 다시 펼쳐보니 전에 읽은 내용조차 기억이 잘 안 나서, 챕터별로 조금씩 요약과 정리와 잡담을 해보기로 했다. 
 

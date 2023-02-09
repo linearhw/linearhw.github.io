@@ -4,7 +4,7 @@ title: 개발 7년차, 매니저 1일차
 categories: dev
 ---
 
-<img src="https://user-images.githubusercontent.com/8778711/152302032-d1bf3f02-12d0-4ef2-ba3e-c7d9f915bfe6.png" width="300" />
+<img src="{{ site.baseurl }}/thumbnails/220124/the-managers-path.png" width="300" />
 
 (사내에 공유한 글을 일부 수정했습니다.)
 

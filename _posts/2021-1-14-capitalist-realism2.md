@@ -4,7 +4,7 @@ title: 자본주의 리얼리즘 (2)
 categories: books
 ---
 
-[1편](https://linearhw.github.io/capitalism)에서 이어지는 내용
+[1편]({{ site.baseurl }}/books/capitalist-realism)에서 이어지는 내용
 
 ## 견고한 모든 것이 홍보 속으로 사라진다
 
