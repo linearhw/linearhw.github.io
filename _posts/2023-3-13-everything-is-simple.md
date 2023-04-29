@@ -4,7 +4,7 @@ title: 몰랐을 땐 복잡했으나 알고 나면 쉽다
 categories: essays
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h_kAH0gEbMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<img src="{{ site.baseurl }}/thumbnails/230313/thumbnail.jpeg" width="500" />
 
   운동을 배우다 보면 생뚱맞게 레비나스의 스승-제자론이 생각난다. 모든 제자는 각자 저마다의 방식으로 스승에게 이해가 닿지 않는다고 했던가. 선생님의 말은 그 말을 듣는 시점엔 결코 이해할 수가 없다. 요가 강사님이 골반 닫으세요- 같은 멘트를 하시면 대체 뭘 어쩌라는 건지 알 수가 없다. 신기한 건, 내가 '골반 닫으세요'를 이해하지 못하는 사람이기 때문에 선생님이 그 말을 하고 있다는 것이다. 뭘 하라는지 모르겠어도 대충 따라하다 보면 어느 날 아, 그게 이거 얘기한 거였나? 하고 알게 된다. 그리고 내가 어느 순간부터 골반 닫으란 지시를 안 들었다는 것도 알게 되지. 
 
