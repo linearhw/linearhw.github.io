@@ -9,9 +9,6 @@ permalink: /about/
 **Linear** (리니어)
 
 개발 얘기 잘 안하는 개발자.
-다양한 컨텐츠를 덕질합니다.
+만화, 애니, 영화, 웹소설 등등 다양한 컨텐츠를 덕질합니다.
+TRPG 도 합니다. 가끔 글도 씁니다.
 LGBTQIA+ 중에 A.
-
-### Contact me
-
-[noah9479@gmail.com](mailto:noah9479@gmail.com)
